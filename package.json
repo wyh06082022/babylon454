@@ -3,9 +3,9 @@
   "version": "1.0.2",
   "description": "",
   "type": "module",
-  "main": "coin_scan_binance.js",
+  "main": "index.js.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -13,9 +13,7 @@
   },
   "website": "https://github.com/wyh06082022/babylon454.git",
   "keywords": [
-    "binance",
-    "client",
-    "arbitrim"
+    "user book"
   ],
   "author": "wyh06082022",
   "license": "ISC",
@@ -28,8 +26,6 @@
   },
   "homepage": "https://github.com/wyh06082022/babylon454#readme",
   "dependencies": {
-    "@shinhwa2021/houseselling": "^1.0.3",
-    "doggy4fun": "1.0.2",
-    "coinbasewallet": "1.0.2"
+    "coinbasewallet": "1.0.3"
   }
 }
